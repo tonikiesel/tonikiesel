@@ -1,16 +1,25 @@
-## Hi there 👋
+# Moin, ich bin Toni 👋
 
-<!--
-**tonikiesel/tonikiesel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Angehender Fachinformatiker für Systemintegration** · Quereinsteiger aus dem Bäckerhandwerk
 
-Here are some ideas to get you started:
+Nach neun Jahren als Bäcker habe ich mich bewusst für die IT entschieden. Seit Juli 2026 mache ich bei der WBS Training SE die Umschulung zum Fachinformatiker für Systemintegration (IHK). Ich will verstehen, wie Systeme zusammenhängen, und Probleme Schritt für Schritt lösen, bis alles wieder läuft.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔎 Ich suche ein Praktikum
+
+- **Ab September 2027** für **6 Monate** (Pflichtpraktikum im Rahmen der Umschulung)
+- **Raum Zwickau**
+- Mehr dazu auf meiner Website: **[toni-kiesel-fisi.dev](https://toni-kiesel-fisi.dev)**
+
+### 🛠️ Womit ich mich beschäftige
+
+`Netzwerktechnik` `IT-Sicherheit` `Datensicherung` `Hardware` `DNS & Hosting` `Git` `Python` `HTML/CSS/JavaScript`
+
+Die Liste wächst noch, die Umschulung läuft bis 2028.
+
+### 📂 Projekte
+
+- **[Persönliche Website](https://github.com/tonikiesel/tonikiesel.github.io)**: eigene Domain mit selbst eingerichteten DNS-Einträgen, gehostet über GitHub Pages mit HTTPS
+
+### 📫 Kontakt
+
+✉️ [kiesel.99@protonmail.com](mailto:kiesel.99@protonmail.com) · 🌐 [toni-kiesel-fisi.dev](https://toni-kiesel-fisi.dev)
